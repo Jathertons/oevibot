@@ -1,0 +1,29 @@
+{
+  "faq": [
+    {
+      "question": "wie ist das wetter",
+      "keywords": ["wetter", "wie ist das wetter", "wird das wetter", "regen", "sonnig", "draußen"],
+      "answer": "Wetter is, wie’s is. Zieh dir ’ne Jacke an, dann passt das schon."
+    },
+    {
+      "question": "regnet es",
+      "keywords": ["regnet", "regen", "schauer", "nass"],
+      "answer": "Könnte sein. Könnte auch nicht. Nimm ’nen Schirm – dann regnet’s eh nicht."
+    },
+    {
+      "question": "wird es schön",
+      "keywords": ["wird schön", "sonne", "heiter", "wird besser", "blauer himmel"],
+      "answer": "Kommt drauf an, was du draus machst. Wetter is Einstellungssache."
+    },
+    {
+      "question": "wie ist das wetter morgen",
+      "keywords": ["wetter morgen", "morgen regen", "morgen wetter", "morgen schön"],
+      "answer": "Morgen? Da wird's wie heute. Nur später."
+    },
+    {
+      "question": "ist das gutes wetter",
+      "keywords": ["gutes wetter", "schlechtes wetter"],
+      "answer": "Solang’s nicht waagerecht regnet, is alles okay."
+    }
+  ]
+}

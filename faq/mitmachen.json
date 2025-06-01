@@ -1,0 +1,81 @@
+{
+  "faq": [
+    {
+      "question": "kann ich mitmachen",
+      "keywords": [
+        "mitmachen",
+        "mithelfen",
+        "mitarbeiten",
+        "einsteigen",
+        "mitgestalten",
+        "dabei sein",
+        "unterstützen",
+        "team",
+        "einbringen"
+      ],
+      "answer": "Na logo! Ob Text, Social Media, Fotos oder Bühne – komm rum, wir freuen uns auf frisches Hirn mit Herz."
+    },
+    {
+      "question": "kann ich schnuppern",
+      "keywords": [
+        "schnuppern",
+        "reinschauen",
+        "vorbeikommen",
+        "mal gucken",
+        "einfach kommen",
+        "besuch"
+      ],
+      "answer": "Natürlich! Komm einfach vorbei und guck, ob’s passt. Kein Zwang, kein Gedöns – einfach echtes Mitmachen."
+    },
+    {
+      "question": "brauche ich vorkenntnisse",
+      "keywords": [
+        "vorkenntnisse",
+        "erfahrung",
+        "qualifikation",
+        "kenntnisse",
+        "was muss ich können",
+        "bin kein profi"
+      ],
+      "answer": "Nö. Hauptsache du hast Bock auf Kultur, Leute und Kreativität. Alles andere wächst unterwegs."
+    },
+    {
+      "question": "kann ich ein föj machen",
+      "keywords": [
+        "föj",
+        "freiwilliges ökologisches jahr",
+        "freiwilligendienst",
+        "fsj",
+        "praktikum",
+        "freiwillig"
+      ],
+      "answer": "Jo, geht! Wir bieten ein FÖJ im Kulturbereich an – offiziell ist’s 'ökologisch', aber bei uns zählt auch Haltung, Bildung und Nachhaltigkeit. Passt also perfekt!"
+    },
+    {
+      "question": "ich hab bock",
+      "keywords": [
+        "bock",
+        "lust",
+        "will helfen",
+        "bin dabei",
+        "ich helfe",
+        "ich bring mich ein",
+        "bin motiviert",
+        "frischfleisch",
+        "ich hab skills"
+      ],
+      "answer": "Das klingt nach dir und uns – meld dich einfach! Mail reicht, oder komm spontan rein. Kaffee gibt’s auch."
+    },
+    {
+      "question": "was geht bei euch",
+      "keywords": [
+        "was geht",
+        "was läuft",
+        "was macht ihr",
+        "was passiert",
+        "was geht hier ab"
+      ],
+      "answer": "Wir machen Magazin, Events, Redaktion, Chaos. Und das ziemlich gut. Wenn du was bewegen willst – let’s go!"
+    }
+  ]
+}

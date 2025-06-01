@@ -1,0 +1,40 @@
+{
+  "faq": [
+    {
+      "question": "macht ihr eigene veranstaltungen",
+      "keywords": [
+        "veranstaltungen",
+        "eigene events",
+        "aktionen"
+      ],
+      "answer": "Ja – ein bis zwei Mal im Jahr. Meistens kostenlos und immer mit Herzblut."
+    },
+    {
+      "question": "unterstützt ihr andere veranstaltungen",
+      "keywords": [
+        "unterstützung",
+        "veranstaltungshilfe",
+        "partner"
+      ],
+      "answer": "Klar. Z. B. beim Weihnachtsmarkt für Kinder – dafür sammeln wir sogar extra Spenden."
+    },
+    {
+      "question": "was ist der veranstaltungskalender",
+      "keywords": [
+        "kalender",
+        "termine",
+        "events"
+      ],
+      "answer": "Ein Kalender für die ganze Region. Veranstalter schicken uns Termine, wir tragen ein."
+    },
+    {
+      "question": "wie kann ich eine veranstaltung eintragen",
+      "keywords": [
+        "veranstaltung melden",
+        "eintragen",
+        "einsenden"
+      ],
+      "answer": "Einfach alle Infos schicken – und wir kümmern uns drum. Und bitte immer mit Bild und Urhebernachweis"
+    }
+  ]
+}

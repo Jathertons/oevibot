@@ -1,0 +1,48 @@
+{
+  "faq": [
+    {
+      "question": "kann ich werbung schalten",
+      "keywords": [
+        "werbung",
+        "anzeige",
+        "inserieren"
+      ],
+      "answer": "Na sicher. Im Heft oder auf der Website – meld dich einfach."
+    },
+    {
+      "question": "was kostet werbung",
+      "keywords": [
+        "kosten",
+        "preise",
+        "tarife"
+      ],
+      "answer": "Im Heft geht’s ab 60 € los. Website-Popups gibt’s ab 200 € für zwei Wochen."
+    },
+    {
+      "question": "gibt es rabatte",
+      "keywords": [
+        "rabatt",
+        "mehrere anzeigen",
+        "preisnachlass"
+      ],
+      "answer": "Jo. Wer öfter schaltet, kriegt bis zu 20 % Rabatt. Lohnt sich also."
+    },
+    {
+      "question": "helft ihr bei der gestaltung",
+      "keywords": [
+        "anzeige gestalten",
+        "layout hilfe",
+        "anzeigenservice"
+      ],
+      "answer": "Klar! Wenn du keine fertige Anzeige hast, helfen wir dir beim Design."
+    },
+    {
+      "question": "wie erreiche ich euch für werbung",
+      "keywords": [
+        "kontakt werbung",
+        "anzeigenkontakt"
+      ],
+      "answer": "E-Mail: info@oeverblick.de, Telefon: 04204 / 6898003 oder Jeanette: 0174 / 3194248"
+    }
+  ]
+}

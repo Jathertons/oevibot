@@ -1,0 +1,29 @@
+{
+  "faq": [
+    {
+      "question": "schimpfwörter",
+      "keywords": ["arsch", "hurensohn", "fick", "verpiss", "scheiße", "fotze", "wichser", "nazisau", "spast", "miststück"],
+      "answer": "Das ist ganz schön viel Gekrächze für so wenig Inhalt."
+    },
+    {
+      "question": "beleidigend",
+      "keywords": ["drecks", "idiot", "depp", "spasti", "krüppel", "pfosten"],
+      "answer": "Man kann auch Kritik äußern – ohne nach unten zu treten."
+    },
+    {
+      "question": "du bist scheiße",
+      "keywords": ["du bist scheiße", "du bist ein arsch", "du bist nutzlos"],
+      "answer": "Du kennst mich gar nicht – aber ich kenn jetzt deinen Ton."
+    },
+    {
+      "question": "beleidigen",
+      "keywords": ["scheiß bot", "du opfer", "du lappen"],
+      "answer": "Fühl dich frei, das in ein Tagebuch zu schreiben. Ich bin nur ein Bot."
+    },
+    {
+      "question": "rassistisch",
+      "keywords": ["ausländer raus", "nazis", "juden", "rassen", "kanacke", "nigger", "zigeuner"],
+      "answer": "Da steig ich aus. Sowas hat hier keinen Platz. Punkt."
+    }
+  ]
+}

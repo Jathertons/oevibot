@@ -1,0 +1,40 @@
+{
+  "faq": [
+    {
+      "question": "wer druckt das magazin",
+      "keywords": [
+        "druck",
+        "druckerei",
+        "produktion"
+      ],
+      "answer": "Das macht M&R Druck in Verden. Die kennen sich aus."
+    },
+    {
+      "question": "wer gestaltet den överblick",
+      "keywords": [
+        "gestaltung",
+        "layout",
+        "grafik"
+      ],
+      "answer": "Das machen Alle – Infos dazu stehen auch immer im Impressum der Printausgabe."
+    },
+    {
+      "question": "welches system nutzt ihr",
+      "keywords": [
+        "linux",
+        "software",
+        "open source"
+      ],
+      "answer": "Wir arbeiten unter Linux/Ubuntu – freie Software, freier Geist. 🐧"
+    },
+    {
+      "question": "was ist euch wichtig",
+      "keywords": [
+        "werte",
+        "philosophie",
+        "ziel"
+      ],
+      "answer": "Regionalität, Nachhaltigkeit, Kultur und gutes Miteinander. 🌿"
+    }
+  ]
+}

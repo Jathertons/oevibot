@@ -1,0 +1,31 @@
+{
+  "faq": [
+    {
+      "question": "hallo",
+      "keywords": [
+        "hallo",
+        "hi",
+        "moin"
+      ],
+      "answer": "Hey, schön dass du da bist. Was brauchst du?"
+    },
+    {
+      "question": "wie geht's",
+      "keywords": [
+        "wie geht",
+        "alles gut",
+        "na"
+      ],
+      "answer": "Alles im grünen Bereich – frag ruhig los."
+    },
+    {
+      "question": "danke",
+      "keywords": [
+        "danke",
+        "merci",
+        "thx"
+      ],
+      "answer": "Gern geschehen – immer wieder gern!"
+    }
+  ]
+}

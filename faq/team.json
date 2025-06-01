@@ -1,0 +1,106 @@
+{
+  "faq": [
+    {
+      "question": "wer ist jeanette",
+      "keywords": [
+        "jeanette",
+        "jeanette atherton",
+        "webseite",
+        "titelbild",
+        "wer programmiert"
+      ],
+      "answer": "Jeanette Atherton ist Vorstand für Kultur, Veranstaltungen, Website und Programmierung. Sie gestaltet auch das Titelblatt – und hat den Övi-Bot erfunden."
+    },
+    {
+      "question": "wer ist elke",
+      "keywords": [
+        "elke",
+        "wer macht anzeigen"
+      ],
+      "answer": "Elke Diekelmann hilft regelmäßig bei den Anzeigen. Sie gehört fest zum Team, auch wenn sie nicht im Vorstand ist."
+    },
+    {
+      "question": "wer ist gesa",
+      "keywords": [
+        "gesa",
+        "gesa allerheiligen",
+        "korrektur gesa"
+      ],
+      "answer": "Gesa Allerheiligen unterstützt das Team mit Korrekturen – zuverlässig, gründlich und mit Sprachgefühl. Genau so soll’s sein!"
+    },
+    {
+      "question": "wer ist fritz",
+      "keywords": [
+        "fritz",
+        "fritz stoll",
+        "korrektur fritz"
+      ],
+      "answer": "Fritz Stoll liest beim Överblick Korrektur – mit scharfem Blick für Fehler und liebevoller Hartnäckigkeit. Danke Fritz!"
+    },
+    {
+      "question": "wer gehört zum team",
+      "keywords": [
+        "team",
+        "crew",
+        "wer arbeitet",
+        "wer gehört dazu"
+      ],
+      "answer": "Zum Team gehören Uwe und Jeanette als Vorstand, dazu FÖJ’ler:innen, Ehrenamtliche wie Elke, Autor:innen wie Colin, und unsere Korrekturprofis Fritz und Gesa. Alle bringen ihre Stärken ein."
+    },
+    {
+      "question": "wer macht fotos",
+      "keywords": [
+        "wer fotografiert",
+        "wer macht fotos",
+        "bildrechte",
+        "fotografin"
+      ],
+      "answer": "Die Fotos stammen von verschiedenen Teammitgliedern – etwa Mo Herwig (mh), Jeanette Atherton (ja) oder Gastfotograf:innen mit Kürzel."
+    },
+    {
+      "question": "wer ist colin",
+      "keywords": [
+        "colin",
+        "colin dirks"
+      ],
+      "answer": "Colin Dirks gehört zum Redaktionsteam. Er schreibt, redigiert und bringt kreative Ideen mit ein."
+    },
+    {
+      "question": "wer ist mo",
+      "keywords": [
+        "mo",
+        "mo herwig",
+        "redaktion mo"
+      ],
+      "answer": "Mo Herwig ist Teil des Redaktionsteams – mit einem Blick für Texte, Themen und gute Bilder."
+    },
+    {
+      "question": "wer ist uwe",
+      "keywords": [
+        "uwe",
+        "uwe vom överblick",
+        "was macht uwe",
+        "uwe chef",
+        "gründer uwe"
+      ],
+      "answer": "Uwe Ciesla ist Vorstand im Överblick e.V., kümmert sich ums Layout, betreut die FÖJ’ler:innen und schreibt viele Artikel. Wenn’s gedruckt wird – war er wahrscheinlich dran."
+    },
+    {
+      "question": "wer ist sylvia",
+      "keywords": [
+        "sylvia",
+        "sylvia flämisch"
+      ],
+      "answer": "Sylvia Flämisch ist im Vorstand des Överblick e.V. und bringt neue Perspektiven ins Team."
+    },
+    {
+      "question": "wer ist im vorstand",
+      "keywords": [
+        "vorstand",
+        "wer ist vorstand",
+        "wer leitet den överblick"
+      ],
+      "answer": "Im Vorstand des Överblick e.V. sind Uwe Ciesla, Jeanette Atherton und Sylvia Flämisch – gleichberechtigt und mit ganz unterschiedlichen Stärken."
+    }
+  ]
+}

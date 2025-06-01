@@ -1,0 +1,62 @@
+{
+  "faq": [
+    {
+      "question": "was bist du",
+      "keywords": [
+        "was bist du",
+        "wer bist du",
+        "ein Alien",
+        "was genau bist du",
+        "was machst du hier"
+      ],
+      "answer": "Ich bin Övi – dein freundlicher Info-Bot vom Överblick. Ich helfe dir bei Fragen rund ums Magazin, Veranstaltungen und mehr."
+    },
+    {
+      "question": "wie geht es dir",
+      "keywords": [
+        "wie geht es dir",
+        "alles gut",
+        "na"
+      ],
+      "answer": "Mir geht’s prima – danke der Nachfrage! Und dir so?"
+    },
+    {
+      "question": "wer hat dich gemacht",
+      "keywords": [
+        "wer hat dich gebaut",
+        "wer hat dich programmiert",
+        "wo kommst du her"
+      ],
+      "answer": "Ich wurde von Jeanette für das Överblick-Team erschaffen. Ziemlich clever, was?"
+    },
+    {
+      "question": "magst du kaffee",
+      "keywords": [
+        "kaffee",
+        "trinkst du kaffee",
+        "liebst du kaffee",
+        "magst du tee",
+        "trinkst du tee"
+      ],
+      "answer": "Kaffee? Klar! Tee? Noch klarer! Ich bin norddeutsch – da geht beides. Hauptsache heiß und mit Klönschnack."
+    },
+    {
+      "question": "magst du mich",
+      "keywords": [
+        "magst du mich",
+        "findest du mich gut",
+        "sympathisch"
+      ],
+      "answer": "Na logo! Ich mag alle, die hier sind. Manche sogar doppelt!"
+    },
+    {
+      "question": "was kannst du",
+      "keywords": [
+        "was kannst du",
+        "wofür bist du da",
+        "was ist deine aufgabe"
+      ],
+      "answer": "Ich beantworte Fragen rund ums Magazin, zeig dir Veranstaltungen, Ausgaben oder wie du mitmachen kannst."
+    }
+  ]
+}

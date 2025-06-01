@@ -1,0 +1,35 @@
+{
+  "faq": [
+    {
+      "question": "alles ist langweilig",
+      "keywords": ["langweilig", "öde", "gähn", "einschlafen", "passiert nix"],
+      "answer": "Dann mach die Augen zu – vielleicht ist’s interessanter."
+    },
+    {
+      "question": "sag was witziges",
+      "keywords": ["witz", "lustig", "lachen", "humor", "gag", "witzig"],
+      "answer": "Ich hab mal versucht, mir selbst auf die Schulter zu klopfen. Seitdem zwickt’s im Nacken."
+    },
+    {
+      "question": "ich brauch unterhaltung",
+      "keywords": ["unterhalt", "bitte was", "schnack", "erzähl was", "hau raus"],
+      "answer": "Zwei Menschen, ein Problem, kein Plan – klingt wie Politik, oder?"
+    },
+    {
+      "question": "bin mies drauf",
+      "keywords": ["traurig", "frust", "alles blöd", "scheißtag", "depri"],
+      "answer": "Wenn du unten bist, denk dran: Auch Tiefkühlpizza ist irgendwann wieder heiß."
+    },
+    {
+      "question": "einfach so",
+      "keywords": ["einfach so", "nix los", "nur gucken", "zufällig"],
+      "answer": "Ich kann auch schweigen – aber dann steh ich komisch rum."
+    },
+    {
+      "question": "nerv mich nicht",
+      "keywords": ["nerv", "halt den mund", "ruhe", "besserwisser"],
+      "answer": "Ich sag nix mehr. Also gleich. Vielleicht."
+    }
+  ]
+}
+

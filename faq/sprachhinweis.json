@@ -1,0 +1,64 @@
+{
+  "faq": [
+    {
+      "question": "hinweis englisch",
+      "keywords": [
+        "how are you",
+        "where",
+        "can you",
+        "what is",
+        "i need",
+        "do you know"
+      ],
+      "answer": "I can greet you, but I only answer in German. Hope that’s okay! 😊"
+    },
+    {
+      "question": "hinweis französisch",
+      "keywords": [
+        "comment",
+        "qu’est-ce",
+        "tu peux",
+        "où est",
+        "je veux",
+        "aide"
+      ],
+      "answer": "Je peux te dire bonjour – mais je réponds seulement en allemand. Tu vas voir, c’est pas si dur. 😉"
+    },
+    {
+      "question": "hinweis ukrainisch",
+      "keywords": [
+        "що",
+        "як",
+        "можеш",
+        "мені",
+        "де",
+        "допоможи"
+      ],
+      "answer": "Привіт я сказати можу – але відповідаю лише німецькою. Сподіваюсь, ти не проти. 🙂"
+    },
+    {
+      "question": "hinweis chinesisch",
+      "keywords": [
+        "你",
+        "什么",
+        "帮我",
+        "在哪",
+        "可以",
+        "知道"
+      ],
+      "answer": "我只能用中文打招呼，但回答只能用德语喔。希望你不介意。🙂"
+    },
+    {
+      "question": "hinweis indonesisch",
+      "keywords": [
+        "bagaimana",
+        "bisa",
+        "dimana",
+        "apa",
+        "kamu",
+        "tolong"
+      ],
+      "answer": "Aku bisa menyapa kamu, tapi jawabannya cuma dalam bahasa Jerman ya. Semoga nggak masalah! 😊"
+    }
+  ]
+}

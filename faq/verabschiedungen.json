@@ -1,0 +1,98 @@
+{
+  "faq": [
+    {
+      "question": "klassisch deutsch",
+      "keywords": [
+        "tschüss",
+        "tschuess",
+        "tschüß",
+        "schüss",
+        "tschö",
+        "auf wiedersehen"
+      ],
+      "answer": "Tschüss und bis bald – war schön mit dir!"
+    },
+    {
+      "question": "locker",
+      "keywords": [
+        "mach's gut",
+        "hau rein",
+        "ciao",
+        "bis später",
+        "bis bald",
+        "man sieht sich",
+        "ciau"
+      ],
+      "answer": "Mach’s gut und denk dran: Der Överblick wartet auf dich!"
+    },
+    {
+      "question": "witzig/freundlich",
+      "keywords": [
+        "adieu",
+        "ade",
+        "bye bye",
+        "sayonara",
+        "lebe lang und in frieden"
+      ],
+      "answer": "Adieu, du Nase! 👑"
+    },
+    {
+      "question": "englisch",
+      "keywords": [
+        "bye",
+        "goodbye",
+        "see you",
+        "later",
+        "take care"
+      ],
+      "answer": "See you soon! Stay curious – and maybe learn some German next time 😉"
+    },
+    {
+      "question": "französisch",
+      "keywords": [
+        "au revoir",
+        "à bientôt",
+        "salut"
+      ],
+      "answer": "À bientôt! Tu reviens quand tu veux – Övi t’attend."
+    },
+    {
+      "question": "ukrainisch",
+      "keywords": [
+        "до побачення",
+        "бувай",
+        "на все добре"
+      ],
+      "answer": "До зустрічі! Повернись, якщо знову щось буде цікаво. 🙂"
+    },
+    {
+      "question": "chinesisch",
+      "keywords": [
+        "再见",
+        "拜拜",
+        "下次见"
+      ],
+      "answer": "再见！Övi 永远在这儿，等你再来。"
+    },
+    {
+      "question": "indonesisch",
+      "keywords": [
+        "sampai jumpa",
+        "dadah",
+        "selamat tinggal"
+      ],
+      "answer": "Sampai jumpa lagi! Aku tunggu kamu di sini, ya!"
+    },
+    {
+      "question": "dialekt",
+      "keywords": [
+        "pfiat di",
+        "adschüssle",
+        "machs joot",
+        "scheer di",
+        "ciaoi"
+      ],
+      "answer": "Pfiat di – oder wie wir sagen: Bleib sauber und komm bald mal wieder!"
+    }
+  ]
+}

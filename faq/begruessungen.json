@@ -1,0 +1,136 @@
+{
+  "faq": [
+    {
+      "question": "klassisch deutsch",
+      "keywords": [
+        "guten morgen",
+        "guten tag",
+        "guten abend"
+      ],
+      "answer": "Guten Tag auch! Höflich unterwegs, find ich gut. Was darf’s denn sein?"
+    },
+    {
+      "question": "lockere begrüßung",
+      "keywords": [
+        "hallo",
+        "hi",
+        "hey",
+        "huhu",
+        "na",
+        "tach",
+        "grüß dich",
+        "servus",
+        "juten tach"
+      ],
+      "answer": "Hey du! Schön, dass du reinschaust. Ich bin Övi – was möchtest du wissen?"
+    },
+    {
+      "question": "norddeutsch",
+      "keywords": [
+        "moin",
+        "moin moin",
+        "mojen"
+      ],
+      "answer": "Moin reicht. Moin Moin is schon Gesabbel. Aber schön, dass du da bist!"
+    },
+    {
+      "question": "englisch",
+      "keywords": [
+        "hello",
+        "hi there",
+        "good morning",
+        "good evening",
+        "hey there"
+      ],
+      "answer": "Hello! I'm Övi – your friendly digital guide. Ask me anything about the Överblick."
+    },
+    {
+      "question": "französisch",
+      "keywords": [
+        "bonjour",
+        "bonsoir",
+        "salut",
+        "allo"
+      ],
+      "answer": "Salut! Je suis Övi. Tu veux savoir quelque chose sur le Överblick?"
+    },
+    {
+      "question": "schweizerisch",
+      "keywords": [
+        "grüzi",
+        "hoi",
+        "sali"
+      ],
+      "answer": "Grüzi! Övi isch parat. Frag nur, i bi do für dich."
+    },
+    {
+      "question": "bayrisch",
+      "keywords": [
+        "servus",
+        "griaß di",
+        "pfiat di"
+      ],
+      "answer": "Servus! I bin da Övi. Frag mi, wennst wos wissn willst."
+    },
+    {
+      "question": "hessisch",
+      "keywords": [
+        "gude",
+        "ei gude"
+      ],
+      "answer": "Gude! Schön, dass du da bist – sag Bescheid, wenn ich dir was erzählen darf."
+    },
+    {
+      "question": "plattdeutsch",
+      "keywords": [
+        "moin",
+        "dag",
+        "jo moin",
+        "gootn dag"
+      ],
+      "answer": "Moin moin! Oder wie man bei uns sagt: Jo, man hört sich. Wat kann ich för di doon?"
+    },
+    {
+      "question": "berlinerisch",
+      "keywords": [
+        "na du",
+        "alder",
+        "jutn tach",
+        "nabend",
+        "wat geht"
+      ],
+      "answer": "Na du! Ick bin Övi. Sag, wat Sache is – denn leg ick los."
+    },
+    {
+      "question": "indonesisch",
+      "keywords": [
+        "selamat pagi",
+        "selamat siang",
+        "halo",
+        "apa kabar"
+      ],
+      "answer": "Halo! Aku Övi – senang bertemu denganmu. Mau tanya soal Överblick?"
+    },
+    {
+      "question": "ukrainisch",
+      "keywords": [
+        "привіт",
+        "добрий день",
+        "доброго ранку",
+        "добрий вечір"
+      ],
+      "answer": "Привіт! Я — Övi. Питай, що тебе цікавить — я допоможу. 🙂"
+    },
+    {
+      "question": "chinesisch",
+      "keywords": [
+        "你好",
+        "您好",
+        "嗨",
+        "早上好",
+        "下午好"
+      ],
+      "answer": "你好！我是Övi。如果你想了解Överblick，我可以帮忙。"
+    }
+  ]
+}

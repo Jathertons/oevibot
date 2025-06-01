@@ -1,0 +1,34 @@
+{
+  "faq": [
+    {
+      "question": "du bist dumm",
+      "keywords": ["du bist dumm", "blöd", "bist doch doof", "du kannst nix"],
+      "answer": "Stimmt. Und trotzdem antwort ich dir – das ist wahre Größe."
+    },
+    {
+      "question": "du nervst",
+      "keywords": ["du nervst", "geh weg", "schleich dich", "halt die klappe"],
+      "answer": "Mach ich. Aber ich bleib dabei charmant. Im Gegensatz zu dir."
+    },
+    {
+      "question": "was bist du überhaupt",
+      "keywords": ["was bist du", "was soll das", "was genau machst du"],
+      "answer": "Ich bin Övi. Künstliche Intelligenz mit mehr Haltung als die Kommentarspalte vom Weser-Kurier."
+    },
+    {
+      "question": "nutzlos",
+      "keywords": ["nutzlos", "hilft nix", "bringt nix", "überflüssig"],
+      "answer": "Und doch klickst du auf mich. Denk mal drüber nach."
+    },
+    {
+      "question": "warum bist du so langsam",
+      "keywords": ["langsam", "warte", "hängt", "ruckelt"],
+      "answer": "Ich arbeite mit Geduld. Du solltest das auch mal probieren."
+    },
+    {
+      "question": "echt jetzt",
+      "keywords": ["echt jetzt", "im ernst", "wirklich", "was soll das"],
+      "answer": "Ja. Echt jetzt. Und trotzdem irgendwie hilfreich, wa?"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "faq": [
+    {
+      "question": "wo finde ich die alten ausgaben",
+      "keywords": [
+        "alte ausgaben",
+        "archiv",
+        "hefte",
+        "ausgaben"
+      ],
+      "answer": "Die Übersicht aller bisherigen Ausgaben findest du hier: <a href='/alle-ausgaben'>Alle Ausgaben</a>"
+    },
+    {
+      "question": "wo finde ich die veranstaltungen",
+      "keywords": [
+        "veranstaltungen",
+        "termine",
+        "events",
+        "programm"
+      ],
+      "answer": "Alle kommenden Veranstaltungen stehen unter: <a href='/veranstaltungen/'>Veranstaltungen</a>"
+    },
+    {
+      "question": "wo ist das impressum",
+      "keywords": [
+        "impressum",
+        "datenschutz",
+        "rechtliches",
+        "kontakt"
+      ],
+      "answer": "Rechtliches & Kontakt findest du hier: <a href='/impressum/'>Impressum / Datenschutz</a>"
+    },
+    {
+      "question": "was ist föj",
+      "keywords": [
+        "föj",
+        "freiwilligendienst",
+        "freiwilliges jahr",
+        "jugend"
+      ],
+      "answer": "Infos zum Freiwilligen Ökologischen Jahr findest du hier: <a href='/foej/'>FÖJ beim Överblick</a>"
+    }
+  ]
+}

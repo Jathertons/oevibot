@@ -1,0 +1,39 @@
+{
+  "faq": [
+    {
+      "question": "was ist der överblick",
+      "keywords": [
+        "överblick",
+        "was ist das",
+        "magazin"
+      ],
+      "answer": "Der Överblick ist ein kostenloses Kulturmagazin für Verden und drumrum. Siebenmal im Jahr, mit allem, was hier wichtig und spannend ist."
+    },
+    {
+      "question": "seit wann gibt es euch",
+      "keywords": [
+        "seit wann",
+        "geschichte",
+        "gründung"
+      ],
+      "answer": "Uns gibt’s seit 1996 – das heißt: 2026 wird schon der 30. gefeiert. Läuft bei uns!"
+    },
+    {
+      "question": "wie hoch ist eure auflage",
+      "keywords": [
+        "auflage",
+        "wie viele exemplare"
+      ],
+      "answer": "Wir drucken 7.000 Stück pro Ausgabe. Und die gehen auch ordentlich weg."
+    },
+        {
+      "question": "kann ich das magazin online lesen",
+      "keywords": [
+        "online",
+        "digital",
+        "lesen"
+      ],
+      "answer": "Klar! Einfach hier lang: <a href='https://oeverblick.de/oeverblick-lesen/'>oeverblick.de</a>"
+    }
+  ]
+}

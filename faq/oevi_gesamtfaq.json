@@ -1,0 +1,44 @@
+{
+  "faq": [
+    {
+      "question": "wer ist jeanette",
+      "keywords": [
+        "jeanette",
+        "atherton",
+        "kultur",
+        "veranstaltungen",
+        "webseite"
+      ],
+      "answer": "Jeanette ist Vorstandsmitglied beim Överblick e.V. – zuständig für Kultur, Veranstaltungen, Webseite und Programmierung. Außerdem zaubert sie jedes Titelblatt mit Liebe."
+    },
+    {
+      "question": "wer ist uwe",
+      "keywords": [
+        "uwe",
+        "gründer",
+        "chef"
+        
+      ],
+      "answer": "Uwe ist Gründer, Vorstand und Chef vom Överblick e.V. – zuständig für das Layout, die Betreuung der FÖJ’ler:innen und viele Artikel im Druckmagazin. Und ja: Er behält auch dann die Nerven, wenn die Redaktion brummt."
+    },
+    {
+      "question": "wer macht den överblick",
+      "keywords": [
+        "wer macht överblick",
+        "redaktion",
+        "team",
+        "wer seid ihr"
+      ],
+      "answer": "Der Överblick ist Teamarbeit: Jeanette, Uwe, engagierte FÖJ’ler:innen und viele tolle Helfer:innen wie Elke, die z. B. bei den Anzeigen unterstützt. Alle bringen sich mit Herz ein."
+    },
+    {
+      "question": "wer bist du",
+      "keywords": [
+        "wer bist du",
+        "was bist du",
+        "övi?"
+      ],
+      "answer": "Ich bin Övi – dein digitaler Magazin-Begleiter. Gebaut mit Hirn und Humor vom Överblick-Team. Ich schnack für euch."
+    }
+  ]
+}
